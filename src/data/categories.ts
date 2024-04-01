@@ -1,7 +1,7 @@
 // List of categories for blog posts
 export const CATEGORIES = [
 	'Admit Day Fitness',
-	'Category 2',
+	'Recipes',
 	'Category 3',
 	'Category 4',
 	'Category 5'
