@@ -2,7 +2,7 @@
 export const CATEGORIES = [
 	'Admit Day Fitness',
 	'Recipes',
-	'Category 3',
+	'Prom Fitness',
 	'Category 4',
 	'Category 5'
 ] as const
