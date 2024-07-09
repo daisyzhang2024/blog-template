@@ -3,6 +3,6 @@ export const CATEGORIES = [
 	'Admit Day Fitness',
 	'Recipes',
 	'Prom Fitness',
-	'Category 4',
+	'Graduation Fitness',
 	'Category 5'
 ] as const

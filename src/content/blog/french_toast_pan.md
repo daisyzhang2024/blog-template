@@ -23,4 +23,4 @@ tags: ['Breakfast', 'Vegetarian']
 2. Slice sliced bread and little pieces and put in pan. Add slices of banana.
 3. Beat 2 eggs, 1 cup milk, and some honey together.
 4. Add in egg mixture to pan and top with spices and walnuts.
-5. Pun pan in oven for 20 mins, and enjoy!
+5. Pun pan in oven for 30 mins, and enjoy!
