@@ -4,5 +4,5 @@ export const CATEGORIES = [
 	'Recipes',
 	'Prom Fitness',
 	'Graduation Fitness',
-	'Category 5'
+	'Winter Break'
 ] as const
